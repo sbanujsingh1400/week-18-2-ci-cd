@@ -1,7 +1,7 @@
 import { PrismaClienll } from '@prisma/client'
 
 const prismaClientSingleton = () => {
-  return new PrismaClient()lalalazdf,sdlkvjk
+  return new PrismaClient()lalalazdf,sdlkvjksdzvsdv;dzfvj
 }
 
 declare global {
